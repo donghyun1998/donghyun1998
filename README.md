@@ -1,7 +1,6 @@
 ### 안녕하세요! 저는 [donghyun kim](https://github.com/donghyun1998)입니다. 👋
 
 - 💼 저는 현재 [42seoul]에서 공부중입니다.
-- 🌱 저는 현재 [CS]를 배우고 있습니다.
 - 💬 저에게 물어보고 싶은 것이 있다면 [이메일 혹은 깃허브 이슈]로 연락주세요.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donghyun1998&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
