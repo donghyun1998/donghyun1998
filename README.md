@@ -17,4 +17,4 @@
 
 내가 만든 뱃지 ㅎ
 
-[![개취뽀 스터디](https://gae-chwi-ppo-web-idfu.vercel.app/api/badge?title=FE%20%EB%AA%A8%EC%9D%98%20%EA%B3%BC%EC%A0%9C%20%EC%8A%A4%ED%84%B0%EB%94%94&duration=2025.11-2025.12&leader=true)](https://gae-chwi-ppo-web-idfu.vercel.app/studies/fe-mock-assignment-study-2025)
+[![개취뽀 스터디](https://gae-chwi-ppo-web-idfu.vercel.app/api/badge?title=FE%20%EB%AA%A8%EC%9D%98%20%EA%B3%BC%EC%A0%9C%20%EC%8A%A4%ED%84%B0%EB%94%94&duration=2025.11-2025.12&leader=false)](https://gae-chwi-ppo-web-idfu.vercel.app/studies/fe-mock-assignment-study-2025)
